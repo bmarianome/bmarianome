@@ -9,9 +9,10 @@
 
 <h3>👨‍💻 Skills & Solid Knowledge: </h3>
 <ul>
-  <li>Expertise in HTML5 and CSS3 (SCSS), with a strong understanding of responsive design and cross-browser compatibility.</li>
-  <li>Proficient in modern frontend frameworks and libraries, such as React.js.</li>
-  <li>Experience in solving complex problems through efficient and effective problem-solving methods.</li>
-  <li>Advanced knowledge in JavaScript, including experience working with REST APIs.</li>
-  <li>Strong English language proficiency, both written and spoken.</li>
+  <li>Solid Frontend knowledge of React, HTML5, CSS3+, TailwindCSS, Javascript & Typescript.</li>
+  <li>Backend expertise with Nextjs & tRPC (similar to Nodejs), React Server Components.</li>
+  <li>Others: Figma, Git & Github.</li>
+  <li>Softskills: demonstrated ability to rapidly acquire new knowledge and drive value creation for personal and team growth. Exceptional energy, focus, and unwavering determination.</li>
+  <li>English: B1 - B2 (conversational)</li>
+  <li>Productivity tools: Github Copilot, ChatGPT, Google Search. </li>
 </ul>
